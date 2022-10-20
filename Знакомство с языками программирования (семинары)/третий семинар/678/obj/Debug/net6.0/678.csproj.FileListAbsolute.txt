@@ -1,0 +1,15 @@
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\bin\Debug\net6.0\678.exe
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\bin\Debug\net6.0\678.deps.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\bin\Debug\net6.0\678.runtimeconfig.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\bin\Debug\net6.0\678.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\bin\Debug\net6.0\678.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\obj\Debug\net6.0\678.csproj.AssemblyReference.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\obj\Debug\net6.0\678.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\obj\Debug\net6.0\678.AssemblyInfoInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\obj\Debug\net6.0\678.AssemblyInfo.cs
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\obj\Debug\net6.0\678.csproj.CoreCompileInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\obj\Debug\net6.0\678.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\obj\Debug\net6.0\refint\678.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\obj\Debug\net6.0\678.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\obj\Debug\net6.0\678.genruntimeconfig.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\третий семинар\678\obj\Debug\net6.0\ref\678.dll
