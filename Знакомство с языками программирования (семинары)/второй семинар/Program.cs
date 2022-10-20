@@ -1,19 +1,19 @@
-﻿//на вход 2 числа и проверяет является ли оно квадратом другого 3,9 5,25 -4
+﻿// Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 
-Console.Write("Введите первое число ");
+// 456 -> 5
+// 782 -> 8
+// 918 -> 1
 
-int number1 = int.Parse(Console.ReadLine()!);
-
-Console.Write("Введите второе число ");
-
-int number2 = int.Parse(Console.ReadLine()!);
-
-if (number1 * number1 == number2 || number2 * number2 == number1)
+Console.Clear();
+int a, a2;
+Console.WriteLine("Введите трёхзначное число: ");
+a = int.Parse(Console.ReadLine()!);
+if(a < 100 || a > 999)
 {
-    Console.Write("да ");
-
+    Console.WriteLine("Ошибка! Введите трёхзначное число!");
 }
 else
 {
-    Console.Write("нет ");
+    a2 = (a / 10) % 10;
+    Console.WriteLine($"Вторая цифра введённого числа - это {a2}");
 }
