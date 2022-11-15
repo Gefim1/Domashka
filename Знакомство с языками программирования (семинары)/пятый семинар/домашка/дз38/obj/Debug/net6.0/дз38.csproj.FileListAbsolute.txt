@@ -1,0 +1,15 @@
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\bin\Debug\net6.0\дз38.exe
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\bin\Debug\net6.0\дз38.deps.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\bin\Debug\net6.0\дз38.runtimeconfig.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\bin\Debug\net6.0\дз38.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\bin\Debug\net6.0\дз38.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\obj\Debug\net6.0\дз38.csproj.AssemblyReference.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\obj\Debug\net6.0\дз38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\obj\Debug\net6.0\дз38.AssemblyInfoInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\obj\Debug\net6.0\дз38.AssemblyInfo.cs
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\obj\Debug\net6.0\дз38.csproj.CoreCompileInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\obj\Debug\net6.0\дз38.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\obj\Debug\net6.0\refint\дз38.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\obj\Debug\net6.0\дз38.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\obj\Debug\net6.0\дз38.genruntimeconfig.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз38\obj\Debug\net6.0\ref\дз38.dll

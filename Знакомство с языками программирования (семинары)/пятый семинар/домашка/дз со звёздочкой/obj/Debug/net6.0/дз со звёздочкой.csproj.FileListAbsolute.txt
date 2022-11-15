@@ -1,0 +1,15 @@
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\bin\Debug\net6.0\дз со звёздочкой.exe
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\bin\Debug\net6.0\дз со звёздочкой.deps.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\bin\Debug\net6.0\дз со звёздочкой.runtimeconfig.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\bin\Debug\net6.0\дз со звёздочкой.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\bin\Debug\net6.0\дз со звёздочкой.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\obj\Debug\net6.0\дз со звёздочкой.csproj.AssemblyReference.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\obj\Debug\net6.0\дз со звёздочкой.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\obj\Debug\net6.0\дз со звёздочкой.AssemblyInfoInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\obj\Debug\net6.0\дз со звёздочкой.AssemblyInfo.cs
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\obj\Debug\net6.0\дз со звёздочкой.csproj.CoreCompileInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\obj\Debug\net6.0\дз со звёздочкой.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\obj\Debug\net6.0\refint\дз со звёздочкой.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\obj\Debug\net6.0\дз со звёздочкой.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\obj\Debug\net6.0\дз со звёздочкой.genruntimeconfig.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\пятый семинар\домашка\дз со звёздочкой\obj\Debug\net6.0\ref\дз со звёздочкой.dll
