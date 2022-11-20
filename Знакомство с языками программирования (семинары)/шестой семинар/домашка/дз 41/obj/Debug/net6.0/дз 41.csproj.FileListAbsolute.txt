@@ -1,0 +1,15 @@
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\bin\Debug\net6.0\дз 41.exe
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\bin\Debug\net6.0\дз 41.deps.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\bin\Debug\net6.0\дз 41.runtimeconfig.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\bin\Debug\net6.0\дз 41.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\bin\Debug\net6.0\дз 41.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\obj\Debug\net6.0\дз 41.csproj.AssemblyReference.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\obj\Debug\net6.0\дз 41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\obj\Debug\net6.0\дз 41.AssemblyInfoInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\obj\Debug\net6.0\дз 41.AssemblyInfo.cs
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\obj\Debug\net6.0\дз 41.csproj.CoreCompileInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\obj\Debug\net6.0\дз 41.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\obj\Debug\net6.0\refint\дз 41.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\obj\Debug\net6.0\дз 41.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\obj\Debug\net6.0\дз 41.genruntimeconfig.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз 41\obj\Debug\net6.0\ref\дз 41.dll

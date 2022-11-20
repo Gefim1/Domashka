@@ -1,0 +1,5 @@
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз со зв\obj\Debug\net6.0\дз со зв.csproj.AssemblyReference.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз со зв\obj\Debug\net6.0\дз со зв.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз со зв\obj\Debug\net6.0\дз со зв.AssemblyInfoInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз со зв\obj\Debug\net6.0\дз со зв.AssemblyInfo.cs
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\шестой семинар\домашка\дз со зв\obj\Debug\net6.0\дз со зв.csproj.CoreCompileInputs.cache

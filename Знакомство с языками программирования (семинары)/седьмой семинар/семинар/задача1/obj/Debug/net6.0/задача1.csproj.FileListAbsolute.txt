@@ -1,0 +1,15 @@
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\bin\Debug\net6.0\задача1.exe
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\bin\Debug\net6.0\задача1.deps.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\bin\Debug\net6.0\задача1.runtimeconfig.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\bin\Debug\net6.0\задача1.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\bin\Debug\net6.0\задача1.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\obj\Debug\net6.0\задача1.csproj.AssemblyReference.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\obj\Debug\net6.0\задача1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\obj\Debug\net6.0\задача1.AssemblyInfoInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\obj\Debug\net6.0\задача1.AssemblyInfo.cs
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\obj\Debug\net6.0\задача1.csproj.CoreCompileInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\obj\Debug\net6.0\задача1.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\obj\Debug\net6.0\refint\задача1.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\obj\Debug\net6.0\задача1.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\obj\Debug\net6.0\задача1.genruntimeconfig.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\семинар\задача1\obj\Debug\net6.0\ref\задача1.dll
