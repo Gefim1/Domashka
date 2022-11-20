@@ -1,0 +1,15 @@
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\bin\Debug\net6.0\дз50.exe
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\bin\Debug\net6.0\дз50.deps.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\bin\Debug\net6.0\дз50.runtimeconfig.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\bin\Debug\net6.0\дз50.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\bin\Debug\net6.0\дз50.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\obj\Debug\net6.0\дз50.csproj.AssemblyReference.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\obj\Debug\net6.0\дз50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\obj\Debug\net6.0\дз50.AssemblyInfoInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\obj\Debug\net6.0\дз50.AssemblyInfo.cs
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\obj\Debug\net6.0\дз50.csproj.CoreCompileInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\obj\Debug\net6.0\дз50.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\obj\Debug\net6.0\refint\дз50.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\obj\Debug\net6.0\дз50.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\obj\Debug\net6.0\дз50.genruntimeconfig.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\седьмой семинар\домашка\дз50\obj\Debug\net6.0\ref\дз50.dll
