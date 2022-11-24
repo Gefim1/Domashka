@@ -1,0 +1,15 @@
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\bin\Debug\net6.0\задача 62.exe
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\bin\Debug\net6.0\задача 62.deps.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\bin\Debug\net6.0\задача 62.runtimeconfig.json
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\bin\Debug\net6.0\задача 62.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\bin\Debug\net6.0\задача 62.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\obj\Debug\net6.0\задача 62.csproj.AssemblyReference.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\obj\Debug\net6.0\задача 62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\obj\Debug\net6.0\задача 62.AssemblyInfoInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\obj\Debug\net6.0\задача 62.AssemblyInfo.cs
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\obj\Debug\net6.0\задача 62.csproj.CoreCompileInputs.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\obj\Debug\net6.0\задача 62.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\obj\Debug\net6.0\refint\задача 62.dll
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\obj\Debug\net6.0\задача 62.pdb
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\obj\Debug\net6.0\задача 62.genruntimeconfig.cache
+C:\Users\geo96\Documents\GitHub\Domashka\Знакомство с языками программирования (семинары)\8й семинар\домашка\задача 62\obj\Debug\net6.0\ref\задача 62.dll
