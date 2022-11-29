@@ -3,21 +3,22 @@
 // N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
 Console.Clear();
-int n = InputNumbers("Введите n: ");
-int count = 2;
-PrintNumber(n, count);
-Console.Write(1);
+int n = InputInt("Введите положительное число: ");
+int m = 1;
 
-void PrintNumber(int n, int count)
+Console.WriteLine(NaturalNumber(n, m));
+
+int NaturalNumber(int n, int m)
 {
- if (count > n) return;
- PrintNumber(n, count + 1);
- Console.Write(count + ", ");
+ if (n == m)
+ return n;
+ else
+ Console.Write($"{NaturalNumber(n, m + 1)}, ");
+ return m;
 }
 
-int InputNumbers(string input) 
+int InputInt(string output)
 {
- Console.Write(input);
- int output = Convert.ToInt32(Console.ReadLine());
- return output;
+ Console.Write(output);
+ return int.Parse(Console.ReadLine());
 }
